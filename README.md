@@ -17,8 +17,8 @@ While Supervised models struggled to classify hybrid players (Accuracy ~88%), th
  The Ball-Winning Midfielder: High Tackles/Interceptions ("The Engine Room").
 #Repository Structure
  ` ML_in_Football-Football_Clustering.ipynb` - The main Jupyter Notebook containing all code (Data cleaning, Models, and Results).
- ` fbref_big5_stats_24_25` - The raw standard stats dataset sourced from FBref.
-` fbref_big5_stats_24_25_def` - The raw defense stats dataset sourced from FBref.
+ ` fbref_big5_stats_24_25.csv` - The raw standard stats dataset sourced from FBref.
+` fbref_big5_stats_24_25_def.csv` - The raw defense stats dataset sourced from FBref.
  `README.md` - Project documentation.
 #Dependencies
 To run this notebook, you will need Python 3.x and the following libraries:
