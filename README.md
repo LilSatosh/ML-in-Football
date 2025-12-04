@@ -23,3 +23,6 @@ While Supervised models struggled to classify hybrid players (Accuracy ~88%), th
 #Dependencies
 To run this notebook, you will need Python 3.x and the following libraries:
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+link to standard stats dataset: https://fbref.com/en/comps/Big5/2024-2025/stats/players/2024-2025-Big-5-European-Leagues-Stats
+link to defence stats dataset: https://fbref.com/en/comps/Big5/2024-2025/defense/players/2024-2025-Big-5-European-Leagues-Stats
